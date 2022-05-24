@@ -1,5 +1,5 @@
 ### Hi there Welcome to my Page!👋
-- 🥼 Aloha!, I'm DeNiro
+## - 🥼 Aloha!, I'm DeNiro
 - 📚 I’m currently learning ... Full Stack Web Development
 - 🔮 I'm interested in many things particularly poetry & visual arts with Adobe.
 - 🤯 Fun fact:The Worst U.S. Security Breach of All Time Happened Because of a USB Stick.
@@ -19,7 +19,7 @@ ORM          2 hrs 37 mins   █████▒░░░░░░░░░░░
 JavaScript   2 hrs 7 mins    ████▒░░░░░░░░░░░░░░░░░░░░   17.42 %
 HTML         36 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   04.94 %
 JSON         34 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   04.72 %
-CSS         29 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.99 %
+CSS          29 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.99 %
 ```
 
 ## My Github Stats
