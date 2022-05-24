@@ -1,5 +1,5 @@
-### hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
-## - 🥼 Hi, I'm DeNiro
+## Hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
+- 🥼 Hi, I'm DeNiro
 - 📚 I’m currently learning ... Full Stack Web Development
 - 🔮 I'm interested in many things particularly poetry & visual arts with Adobe.
 - 🤯 Fun fact:The Worst U.S. Security Breach of All Time Happened Because of a USB Stick.
