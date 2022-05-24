@@ -2,7 +2,8 @@
 - 🥼 Hi, I'm DeNiro
 - 📚 I’m currently learning ... Full Stack Web Development
 - 🔮 I'm interested in many things particularly poetry & visual arts with Adobe.
-- 🤯 Fun fact:The Worst U.S. Security Breach of All Time Happened Because of a USB Stick.
+- 💻 I'm currently working on a group project to build a full stack ecommerce site (coming soon)
+- 🤯 Fun fact: The Worst U.S. Security Breach of All Time Happened Because of a USB Stick.
 
 
 <br>
