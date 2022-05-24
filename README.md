@@ -5,14 +5,14 @@
 - 🤯 Fun fact:The Worst U.S. Security Breach of All Time Happened Because of a USB Stick.
 
 
+<br>
 <img align="right" alt="GIF" src="https://raw.githubusercontent.com/rahul-jha98/rahul-jha98/main/techstack.gif" width="420px"/>
 <a href="https://www.linkedin.com/in/deniro-dumas-7b57491ba/" target="blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
    <a href="https://docs.google.com/document/d/1OTvbGi3IkaQfebnwFf2WM2eXvCj6fwps/edit?usp=sharing&ouid=106128385963472784841&rtpof=true&sd=true" target="blank"><img src="https://img.shields.io/badge/Resume-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white" /></a>
   <a href="mailto:dumasdj23@gmail.com" target="blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-
+<br>
 
 🔨 **This week i spent my time on:**
-
 ```text
 Express      5 hrs 22 mins   ███████████░░░░░░░░░░░░░░   43.95 %
 ORM          2 hrs 37 mins   █████▒░░░░░░░░░░░░░░░░░░░   21.45 %
@@ -21,4 +21,11 @@ HTML         36 mins         █▒░░░░░░░░░░░░░░░
 JSON         34 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   04.72 %
 CSS         29 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.99 %
 ```
+
+## My Github Stats
+
+![My GitHub stats](https://github-readme-stats.vercel.app/api?username=onlydeniros&show_icons=true&theme=tokyonight)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=onlydeniros&theme=tokyonight&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)  
+[![My Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=onlydeniros&langs_count=8&theme=tokyonight&layout=compact)](https://github.com/cobalt88)
+[![trophy](https://github-profile-trophy.vercel.app/?username=onlydeniros&theme=tokyonight)](https://github.com/cobalt88/github-profile-trophy)
 
