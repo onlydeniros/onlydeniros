@@ -2,7 +2,7 @@
 - 🥼 Hi, I'm DeNiro
 - 📚 I’m currently learning ... Full Stack Web Development
 - 🔮 I'm interested in many things particularly poetry & visual arts with Adobe.
-- 💻 I'm currently working on React, MongoDB & Node.js
+- 💻 I'm currently working on MERN Stack
 - 🤯 Fun fact: The Worst U.S. Security Breach of All Time Happened Because of a USB Stick.
 
 
