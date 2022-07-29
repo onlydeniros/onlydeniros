@@ -1,8 +1,8 @@
 ## Welcome To My Universe!
-- 🥼 Hi, I'm DeNiro
-- 📚 I’m currently learning ... Full Stack Web Development
+- 🥼 Hi, I'm DeNiro Dumas
+- 📚 I’m currently learning C programming
 - 🔮 I'm interested in many things particularly poetry & visual arts with Adobe.
-- 💻 I'm currently working on MERN Stack
+- 💻 I'm currently working on MERN stack application(Devise 2.0)
 - 🤯 Fun fact: The Worst U.S. Security Breach of All Time Happened Because of a USB Stick.
 
 
